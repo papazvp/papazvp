@@ -1,16 +1,13 @@
-## Hi there 👋
+# Independent Solana Searcher Developer
 
-<!--
-**papazvp/papazvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop and research Solana searcher infrastructure, with a focus on cross-DEX arbitrage and transaction execution.
 
-Here are some ideas to get you started:
+## Areas of work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cross-DEX arbitrage research and development
+- Solana transaction simulation, execution, and diagnostics
+- Jito bundle submission and execution analysis
+- Compute unit usage and transaction performance
+- Research into ordered-bundle backrun execution
+
+My work focuses on improving execution reliability and understanding transaction outcomes through simulation and on-chain analysis. My trading infrastructure and proprietary strategies are maintained privately.
